@@ -254,11 +254,12 @@ application to side-chain prediction. J. Mol. Biol. 230, 543–574 (1993).
 discovery: visual inspection of docking results. J. Med. Chem. 64, 2489-2500 (2021).
 
 
-## Code and programming availability
+## Code and programmings availability
 ### Source code
  for the AlphaFold model, trained weights, and an inference script is available under an open-source license at https://github.com/deepmind/alphafold. 
 
-Neural networks were developed with 
+### Neural networks
+ Neural networks were developed with 
 - TensorFlow v1 (https://github.com/tensorflow/tensorflow), 
 - Sonnet v1 (https://github.com/deepmind/sonnet),
 - JAX v0.1.69 (https://github. com/google/jax/), 
@@ -296,6 +297,8 @@ Data analysis used
 
 
 
-## PPT  
+## Public conference 
+Alphafold2 paper Reading mp4 
+https://drive.google.com/drive/folders/1lMmrYRO4fHBcDE31YTKS-tHRDADDORpa?usp=sharing 
 Alphafold2 paper Reading PPT 初版下载链接：
 https://drive.google.com/file/d/1Py6jXKTUyCvCJF2Q3WWq-8KYNv6BI28X/view?usp=sharing

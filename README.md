@@ -111,7 +111,7 @@ relax
 
 ## Reference Papers List 
 
-- [ ] 1. SWISS-MODEL Homo sapiens (Human). https://swissmodel.expasy.org/repository/ species/9606 (2021).
+- [ ] 1. SWISS-MODEL Homo sapiens (Human). https://swissmodel.expasy.org/repository/species/9606 (2021).
 - [ ] 2. Jumper, J. et al. Highly accurate protein structure prediction with AlphaFold. Nature https://doi.org/10.1038/s41586-021-03819-2 (2021).
 - [ ] 3. Lander, E. S. et al. Initial sequencing and analysis of the human genome. Nature 409, 860–921 (2001).
 - [ ] 4. Venter, J. C. et al. The sequence of the human genome. Science 291, 1304–1351 (2001).
@@ -173,22 +173,21 @@ D412–D419 (2021).
 methods of protein structure prediction (CASP)—Round XIII. Proteins: Struct. Funct.
 Bioinf. 87, 1011–1020 (2019).
 - [x] 30. Lupas, A. N., Pereira, J. & Hartmann, M. D. High Accuracy Assessment in CASP14. https://
-predictioncenter.org/casp14/doc/presentations/2020_11_30_HighAccuracy_assessment_
-Lupas-Pereira-Hartmann.pdf (2020).
+predictioncenter.org/casp14/doc/presentations/2020_11_30_HighAccuracy_assessmentLupas-Pereira-Hartmann.pdf (2020).
 - [x] 31. Senior, A. W. et al. Improved protein structure prediction using potentials from deep
 learning. Nature 577, 706–710 (2020).
 - [x] 32. Zhang, Y. Protein structure prediction: when is it useful? Curr. Opin. Struct. Biol. 19,
 145–155 (2009).
 
 - [x] 33. Flower, T. G. & Hurley, J. H. Crystallographic molecular replacement using an in silico-generated search model of SARS-CoV-2 ORF8. Protein Sci. 30, 728–734 (2021).
-- [x] 34. Egbert, M. & Vajda, S. CASP14 Functional Assessment: Conservation of Binding Properties in Modeled Proteins. https://predictioncenter.org/casp14/doc/presentations/2020_12_03_ Function_Assessment_VajdaLab_KozakovLab.pdf (2020).
+- [x] 34. Egbert, M. & Vajda, S. CASP14 Functional Assessment: Conservation of Binding Properties in Modeled Proteins. https://predictioncenter.org/casp14/doc/presentations/2020_12_03_Function_Assessment_VajdaLab_KozakovLab.pdf (2020).
 - [x] 35. Mariani, V., Biasini, M., Barbato, A. & Schwede, T. lDDT: A local superposition-free score for comparing protein structures and models using distance difference tests. Bioinformatics 29, 2722–2728 (2013).
 - [x] 36. Ashburner, M. et al. Gene Ontology: tool for the unification of biology. Nat. Genet. 25, 25–29 (2000).
 - [x] 37. Carbon, S. et al. The Gene Ontology resource: enriching a GOld mine. Nucleic Acids Res. 49, D325–D334 (2021).
 - [x] 38. Hopkins, A. L. & Groom, C. R. The druggable genome. Nat. Rev. Drug Discov. 1, 727–730 (2002).
 - [x] 39. Haas, J. et al. Introducing ‘best single template’ models as reference baseline for the Continuous Automated Model Evaluation (CAMEO). Proteins: Struct. Funct. Bioinf. 87, 1378–1387 (2019).
 - [x] 40. Haas, J. et al. Continuous Automated Model EvaluatiOn (CAMEO) complementing the critical assessment of structure prediction in CASP12. Proteins: Struct. Funct. Bioinf. 86, 387–398 (2018).
-- [x] 41. Schaeffer, R. D., Kinch, L. & Grishin, N. CASP14: InterDomain Performance. https:// predictioncenter.org/casp14/doc/presentations/2020_12_02_Interdomain_assessment1_ Schaeffer.pdf (2020).
+- [x] 41. Schaeffer, R. D., Kinch, L. & Grishin, N. CASP14: InterDomain Performance. https://predictioncenter.org/casp14/doc/presentations/2020_12_02_Interdomain_assessment1_Schaeffer.pdf (2020).
 - [x] 42. Zhang, Y. & Skolnick, J. Scoring function for automated assessment of protein structure template quality. Proteins: Struct. Funct. Bioinf. 57, 702–710 (2004).
 - [x] 43. Grinter, R. et al. Protease-associated import systems are widespread in Gram-negative bacteria. PLoS Genet. 15, e1008435 (2019).
 - [x] 44. Pan, C.-J., Lei, K.-J., Annabi, B., Hemrika, W. & Chou, J. Y. Transmembrane topology of glucose-6-phosphatase. J. Biol. Chem. 273, 6144–6148 (1998).
@@ -227,8 +226,7 @@ D508–D516 (2012).
 Disorder Prediction by Ensembled Deep Learning. Genomics Proteomics Bioinformatics
 17, 645–656 (2019).
 - [x] 64. Dunne, M., Ernst, P., Sobieraj, A., Pluckthun, A. & Loessner, M. J. The M23 peptidase
-domain of the Staphylococcal phage 2638A endolysin. https://doi.org/10.2210/pdb6YJ1/
-pdb (2020).
+domain of the Staphylococcal phage 2638A endolysin. https://doi.org/10.2210/pdb6YJ1/pdb (2020).
 - [x] 65. Krivák, R. & Hoksza, D. P2Rank: machine learning based tool for rapid and accurate
 prediction of ligand binding sites from protein structure. J. Cheminform. 10, 1–12 (2018).
 - [x] 66. Li, Y.-C. et al. Structure and noncanonical Cdk8 activation mechanism within an
@@ -262,8 +260,8 @@ discovery: visual inspection of docking results. J. Med. Chem. 64, 2489-2500 (20
  Neural networks were developed with 
 - TensorFlow v1 (https://github.com/tensorflow/tensorflow), 
 - Sonnet v1 (https://github.com/deepmind/sonnet),
-- JAX v0.1.69 (https://github. com/google/jax/), 
-- Haiku v0.0.4 (https://github.com/deepmind/ dm-haiku).
+- JAX v0.1.69 (https://github.com/google/jax/), 
+- Haiku v0.0.4 (https://github.com/deepmind/dm-haiku).
 
 ### MSA search
 For MSA search on 
@@ -271,7 +269,8 @@ For MSA search on
 and reduced BFD we used jackhmmer and for template search on the PDB SEQRES we used 
 - hmmsearch, both from HMMER v3.3 (http://eddylab.org/soft-ware/hmmer/).
 
-For template search against PDB70, we used HHsearch from HH-suite v3.0-beta.3 14/07/2017 (https://github.com/soedinglab/hh-suite). For constrained relaxation of structures, we used OpenMM v7.3.1 (https://github.com/openmm/openmm) with the Amber99sb force field.
+For template search against PDB70, we used HHsearch from HH-suite v3.0-beta.3 14/07/2017 (https://github.com/soedinglab/hh-suite). 
+For constrained relaxation of structures, we used OpenMM v7.3.1 (https://github.com/openmm/openmm) with the Amber99sb force field.
 
 
 ### Docking analysis
@@ -288,7 +287,7 @@ Data analysis used
 - seaborn v0.11.1 (https://github.com/mwaskom/seaborn), 
 - scikit-learn v0.24.0 (https://github.com/scikit-learn/), 
 - Matplotlib v3.3.4 (https://github.com/matplotlib/matplotlib), 
-- pandas v1.1.5 (https:// github.com/pandas-dev/pandas), 
+- pandas v1.1.5 (https://github.com/pandas-dev/pandas), 
 - and Colab (https://research.google.com/colaboratory). 
 - TM-align v20190822 (https://zhanglab.dcmb.med.umich.edu/TM-align) was used for computing TM-scores.
 

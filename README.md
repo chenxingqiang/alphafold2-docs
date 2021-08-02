@@ -69,14 +69,7 @@ relax
    - relax.py
    - relax_test.py
 
-testdata
-   - model_output.pdb
-   - multiple_disulfides_target.pdb
-   - with_violations.pdb
-   - with_violations_casp14.pdb
-   - utils.py
-   - utils_test.py
---------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
 #### 2. Create Unit Testrothms for 32 Algorithms
 

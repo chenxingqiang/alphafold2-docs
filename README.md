@@ -1,7 +1,7 @@
 # ref-Alphafold-Code
 
 ## ToDo Lists
-### 1. AlphaFold2 Source Code review
+### 1. AlphaFold2 Source Code Review
 
   #### **alphafold**
 
@@ -71,9 +71,9 @@ relax
 
 ----------------------------------------------------------------------------------------------------------------------
 
-#### 2. Create Unit Testrothms for 32 Algorithms
+#### 2. Create Unit Test for 32 Algorithms
 
-|   Function Name                    	|   Instruction                                                          	| CheckBox 	|
+|   Function Name   (Algorithms)                 	|   Instruction                                                          	| CheckBox 	|
 |------------------------------------	|------------------------------------------------------------------------	|----------	|
 |   MSABlockDeletion                 	|     MSA block deletion                                                  	|  [ ]    	|
 |   Inference                        	|    AlphaFold Model Inference                                           	|  [ ]    	|

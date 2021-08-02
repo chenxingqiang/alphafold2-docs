@@ -1,6 +1,6 @@
 # ref-Alphafold-Code
 
-## Refer Papers List 
+## Reference Papers List 
 
 1. SWISS-MODEL Homo sapiens (Human). https://swissmodel.expasy.org/repository/ species/9606 (2021).
 2. Jumper, J. et al. Highly accurate protein structure prediction with AlphaFold. Nature https://doi.org/10.1038/s41586-021-03819-2 (2021).

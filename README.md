@@ -256,7 +256,8 @@ discovery: visual inspection of docking results. J. Med. Chem. 64, 2489-2500 (20
 ### Source code
  for the AlphaFold model, trained weights, and an inference script is available under an open-source license at https://github.com/deepmind/alphafold. 
 
-Neural networks were developed with 
+### Neural networks
+ Neural networks were developed with 
 - TensorFlow v1 (https://github.com/tensorflow/tensorflow), 
 - Sonnet v1 (https://github.com/deepmind/sonnet),
 - JAX v0.1.69 (https://github.com/google/jax/), 

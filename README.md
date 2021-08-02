@@ -272,28 +272,6 @@ The CAID dataset was downloaded from (https://idpcentral.org/caid/data/1/referen
 CAMEO data was accessed 17/03/2021 from (https://www.cameo3d.org/static/down-loads/modeling/1-year/raw_targets-1-year.public.tar.gz). 
 
 A copy of the current Gene Ontology was downloaded 29/04/2021 from (http://current.geneontology.org/ontology/go.obo).
-
-
-## Data availability
-AlphaFold structure predictions for the human proteome are available under a CC-BY-4.0 license at https://alphafold.ebi.ac.uk/.
-
-All input data are freely available from public sources. The human reference proteome together with its xml annotations was obtained from UniProt 2021_02 (https://ftp.ebi.ac.uk/pub/databases/uniprot/previous_releases/release-2021_02/knowledgebase/).
-
-At prediction time, MSA search was performed against UniRef90 2020_03 (https://ftp.ebi.ac.uk/pub/databases/uniprot/previous_releases/release-2020_03/uniref/), 
-
-MGnify clusters 2018_12 (https://ftp.ebi.ac.uk/pub/databases/metagenomics/peptide_database/2018_12/), 
-
-and a reduced version of BFD (produced from as outlined in the Methods from BFD https://bfd.mmseqs.com/). 
-
-Template structures, the SEQRES fasta file, and the 40% sequence clustering were taken from a copy of the PDB downloaded 15/2/2021 (https://www.wwpdb.org/ftp/pdb-ftp-sites; see also https://ftp.wwpdb.org/pub/pdb/derived_data/ and https://cdn.rcsb.org/resources/sequence/clusters/bc-40.out for sequence data). 
-
-Experimental structures are drawn from the same copy of the PDB; we show structures with accessions 6YJ164, 6OFS43,46, 1IDQ46, 1PRT72, 3F1Z58, 7KPX66 and 6VP051. Template search used PDB70, downloaded 10/02/2021 (http://wwwuser.gwdg.de/~compbiol/data/hhsuite/databases/hhsuite_dbs/). 
-
-The CAID dataset was downloaded from (https://idpcentral.org/caid/data/1/reference/disprot-disorder-pdb-atleast.txt). 
-
-CAMEO data was accessed 17/03/2021 from (https://www.cameo3d.org/static/down-loads/modeling/1-year/raw_targets-1-year.public.tar.gz). 
-
-A copy of the current Gene Ontology was downloaded 29/04/2021 from (http://current.geneontology.org/ontology/go.obo).
 ## Code and programmings availability
 ### Source code
  for the AlphaFold model, trained weights, and an inference script is available under an open-source license at https://github.com/deepmind/alphafold. 

@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.swc
+*.tar
+docs/*
+models/*
+*.tar
+pycaffe_utils*
+*.mat
+*.pkl

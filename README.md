@@ -1,5 +1,44 @@
 # ref-Alphafold-Code
 
+## ToDo Lists
+### AlphaFold2 Code review
+### Create Unit Testrothms for 32 Algorithms
+
+|   Function Name                    	|   Instruction                                                          	|
+|------------------------------------	|------------------------------------------------------------------------	|
+|   MSABlockDeletion                 	|    MSA block deletion                                                  	|
+|   Inference                        	|    AlphaFold Model Inference                                           	|
+|   InputEmbedder                    	|    Embeddings for initial representations                              	|
+|   relpos                           	|    Relative position encoding                                          	|
+|   one_hot                          	|    One-hot encoding with nearest bin                                   	|
+|   EvoformerStack                   	|    Evoformer stack                                                     	|
+|   MSARowAttentionWithPairBias      	|    MSA row-wise gated self-attention with pair bias                    	|
+|   MSAColumnAttention               	|    MSA column-wise gated self-attention                                	|
+|   MSATransition                    	|    Transition layer in the MSA stack                                   	|
+|   OuterProductMean                 	|    Outer product mean                                                  	|
+|   TriangleMultiplicationOutgoing   	|    Triangular multiplicative update using “outgoing” edges             	|
+|   TriangleMultiplicationIncoming   	|    Triangular multiplicative update using “incoming” edges             	|
+|   TriangleAttentionStartingNode    	|    Triangular gated self-attention around starting node                	|
+|   TriangleAttentionEndingNode      	|    Triangular gated self-attention around ending node                  	|
+|   PairTransition                   	|    Transition layer in the pair stack                                  	|
+|   TemplatePairStack                	|    Template pair stack                                                 	|
+|   TemplatePointwiseAttention       	|    Template pointwise attention                                        	|
+|   ExtraMsaStack                    	|    Extra MSA stack                                                     	|
+|   MSAColumnGlobalAttention         	|    MSA global column-wise gated self-attention                         	|
+|   StructureModule                  	|    Structure module                                                    	|
+|   rigidFrom3Points                 	|   Rigid from 3 points using the Gram–Schmidt process                   	|
+|   InvariantPointAttention          	|    Invariant point attention(IPA)                                      	|
+|   BackboneUpdate                   	|    Backbone update                                                     	|
+|   computeAllAtomCoordinates        	|    Compute all atom coordinates                                        	|
+|   makeRotX                         	|   Make a transformation that rotates around the x-axis                 	|
+|   renameSymmetricGroundTruthAtoms  	|    Rename symmetric ground truth atoms                                 	|
+|   torsionAngleLoss                 	|   Side chain and backbone torsion angle loss                           	|
+|   computeFAPE                      	|   Compute the Frame aligned point error                                	|
+|   predictPerResidueLDDT            	|   Predict model confidence pLDDT                                       	|
+|   RecyclingInference               	|    Generic recycling inference procedure                               	|
+|   RecyclingTraining                	|    Generic recycling training procedure                                	|
+|   RecyclingEmbedder                	|    Embedding of Evoformer and Structure module outputs for recycling   	|
+
 ## Reference Papers List 
 
 1. SWISS-MODEL Homo sapiens (Human). https://swissmodel.expasy.org/repository/ species/9606 (2021).

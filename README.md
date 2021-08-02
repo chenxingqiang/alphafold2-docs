@@ -261,8 +261,8 @@ discovery: visual inspection of docking results. J. Med. Chem. 64, 2489-2500 (20
 Neural networks were developed with 
 - TensorFlow v1 (https://github.com/tensorflow/tensorflow), 
 - Sonnet v1 (https://github.com/deepmind/sonnet),
-- JAX v0.1.69 (https://github. com/google/jax/), 
-- Haiku v0.0.4 (https://github.com/deepmind/ dm-haiku).
+- JAX v0.1.69 (https://github.com/google/jax/), 
+- Haiku v0.0.4 (https://github.com/deepmind/dm-haiku).
 
 ### MSA search
 For MSA search on 

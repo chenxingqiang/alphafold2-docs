@@ -1,0 +1,25 @@
+INSTALL(PROGRAMS
+        a3m.py
+        addss.pl
+        Align.pm
+        check_a3m.py
+        cif2fasta.py
+        create_profile_from_hhm.pl
+        create_profile_from_hmmer.pl
+        ffindex.py
+        get_a3m_size.py
+        hh_reader.py
+        hhmakemodel.pl
+        hhmakemodel.py
+        HHPaths.pm
+        hhsuitedb.py
+        mergeali.pl
+        multithread.pl
+        pdb2fasta.pl
+        pdbfilter.pl
+        pdbfilter.py
+        reformat.pl
+        renumberpdb.pl
+        splitfasta.pl
+        DESTINATION scripts
+        )

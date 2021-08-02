@@ -1,8 +1,84 @@
 # ref-Alphafold-Code
 
 ## ToDo Lists
-### AlphaFold2 Code review
-### Create Unit Testrothms for 32 Algorithms
+#### 1. AlphaFold2 Source Code review
+
+alphafold
+
+common
+- confidence.py
+- protein.py
+- protein_test.py
+- residue_constants.py
+- residue_constants_test.py
+
+    data
+ - mmcif_parsing.py
+ - parsers.py
+ - pipeline.py
+ - templates.py
+
+    tools
+    - hhblits.py
+    - hhsearch.py
+    - hmmbuild.py
+    - hmmsearch.py
+    - jackhmmer.py
+    - kalign.py
+    - utils.py
+
+ model
+ - all_atom.py
+ - all_atom_test.py
+ - common_modules.py
+ - config.py
+ - data.py
+ - features.py
+ - folding.py
+ - layer_stack.py
+ - layer_stack_test.py
+ - lddt.py
+ - lddt_test.py
+ - mapping.py
+ - model.py
+ - modules.py
+ - prng.py
+ - prng_test.py
+ - quat_affine.py
+ - quat_affine_test.py
+ - r3.py
+
+    tf
+  - data_transforms.py
+  - input_pipeline.py
+  - protein_features.py
+  - protein_features_test.py
+  - proteins_dataset.py
+  - shape_helpers.py
+  - shape_helpers_test.py
+  - shape_placeholders.py
+  - utils.py
+  
+utils.py
+
+relax
+   - amber_minimize.py
+   - amber_minimize_test.py
+   - cleanup.py
+   - cleanup_test.py
+   - relax.py
+   - relax_test.py
+
+testdata
+   - model_output.pdb
+   - multiple_disulfides_target.pdb
+   - with_violations.pdb
+   - with_violations_casp14.pdb
+   - utils.py
+   - utils_test.py
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### 2. Create Unit Testrothms for 32 Algorithms
 
 |   Function Name                    	|   Instruction                                                          	|
 |------------------------------------	|------------------------------------------------------------------------	|

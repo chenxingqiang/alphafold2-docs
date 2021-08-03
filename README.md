@@ -351,6 +351,6 @@ Data analysis used
 - Alphafold2 paper Reading mp4 
 https://drive.google.com/drive/folders/1lMmrYRO4fHBcDE31YTKS-tHRDADDORpa?usp=sharing 
 
-- Alphafold2 Paper Reading
 ### 2021-07-31 version 1 PPT 初版下载链接：
-https://drive.google.com/file/d/1Py6jXKTUyCvCJF2Q3WWq-8KYNv6BI28X/view?usp=sharing
+- Alphafold2 Paper Reading PPT/Key
+in PPT file.

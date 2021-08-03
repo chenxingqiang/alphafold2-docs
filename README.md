@@ -346,9 +346,10 @@ Data analysis used
 
 
 
-## Public conference 
-Alphafold2 paper Reading mp4 
+## My Public conference 
+- Alphafold2 paper Reading mp4 
 https://drive.google.com/drive/folders/1lMmrYRO4fHBcDE31YTKS-tHRDADDORpa?usp=sharing 
-Alphafold2 
-paper Reading PPT 初版下载链接：
+
+- Alphafold2 paper Reading 
+PPT 初版下载链接：
 https://drive.google.com/file/d/1Py6jXKTUyCvCJF2Q3WWq-8KYNv6BI28X/view?usp=sharing

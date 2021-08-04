@@ -225,7 +225,7 @@ relax
 
 - [x] 56. Pereira, J. et al. High-accuracy protein structure prediction in CASP14. Proteins (2021) https://doi.org/10.1002/prot.26171.
 
-- [x] 57. Gupta, M. et al. CryoEM and AI reveal a structure of SARS-CoV-2 Nsp2, a multifunctional protein involved in key host processes. bioRxiv (2021) https://doi.org/10.1101/ 2021.05.10.443524.
+- [x] 57. Gupta, M. et al. CryoEM and AI reveal a structure of SARS-CoV-2 Nsp2, a multifunctional protein involved in key host processes. bioRxiv (2021) https://doi.org/10.1101/2021.05.10.443524.
 
 
 - [x] 58. Ingraham, J., Garg, V. K., Barzilay, R. & Jaakkola, T. Generative models for graph-based protein design. in Proceedings of the 33rd Conference on Neural Information Processing Systems (2019).
@@ -268,19 +268,19 @@ relax
 
 - [x] 76. Jiang, W. et al. MrpH, a new class of metal-binding adhesin, requires zinc to mediate biofilm formation. PLoS Pathog. 16, e1008707 (2020).
 
-- [x] 77. Dunne, M., Ernst, P., Sobieraj, A., Pluckthun, A. & Loessner, M. J. The M23 peptidase domain of the Staphylococcal phage 2638A endolysin. https://doi.org/10.2210/pdb6YJ1/ pdb (2020).
+- [ ] 77. Dunne, M., Ernst, P., Sobieraj, A., Pluckthun, A. & Loessner, M. J. The M23 peptidase domain of the Staphylococcal phage 2638A endolysin. https://doi.org/10.2210/pdb6YJ1/pdb (2020).
 
-- [x] 78. Drobysheva, A. V. et al. Structure and function of virion RNA polymerase of a crAss-like phage. Nature 589, 306–309 (2021).
+- [ ] 78. Drobysheva, A. V. et al. Structure and function of virion RNA polymerase of a crAss-like phage. Nature 589, 306–309 (2021).
 
-- [x] 79. Flaugnatti, N. et al. Structural basis for loading and inhibition of a bacterial T6SS phospholipase effector by the VgrG spike. EMBO J. 39, e104129 (2020).
+- [ ] 79. Flaugnatti, N. et al. Structural basis for loading and inhibition of a bacterial T6SS phospholipase effector by the VgrG spike. EMBO J. 39, e104129 (2020).
 
-- [x] 80. ElGamacy, M. et al. An Interface-Driven Design Strategy Yields a Novel, Corrugated Protein Architecture. ACS Synth. Biol. 7, 2226–2235 (2018).
+- [ ] 80. ElGamacy, M. et al. An Interface-Driven Design Strategy Yields a Novel, Corrugated Protein Architecture. ACS Synth. Biol. 7, 2226–2235 (2018).
 
-- [x] 81. Lim, C. J. et al. The structure of human CST reveals a decameric assembly bound to telomeric DNA. Science 368, 1081–1085 (2020).
+- [ ] 81. Lim, C. J. et al. The structure of human CST reveals a decameric assembly bound to telomeric DNA. Science 368, 1081–1085 (2020).
 
-- [x] 82. Debruycker, V. et al. An embedded lipid in the multidrug transporter LmrP suggests a mechanism for polyspecificity. Nat. Struct. Mol. Biol. 27, 829–835 (2020).
+- [ ] 82. Debruycker, V. et al. An embedded lipid in the multidrug transporter LmrP suggests a mechanism for polyspecificity. Nat. Struct. Mol. Biol. 27, 829–835 (2020).
 
-- [x] 83. Flower, T. G. et al. Structure of SARS-CoV-2 ORF8, a rapidly evolving immune evasion protein. Proc. Natl. Acad. Sci. U. S. A. 118, (2021).
+- [ ] 83. Flower, T. G. et al. Structure of SARS-CoV-2 ORF8, a rapidly evolving immune evasion protein. Proc. Natl. Acad. Sci. U. S. A. 118, (2021).
 
 ------------------------------------------------------------------------------------------
 ## Data availability

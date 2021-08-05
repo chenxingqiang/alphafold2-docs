@@ -1,0 +1,1 @@
+![figure](../img/algorithms/RecyclingEmbedder.png)

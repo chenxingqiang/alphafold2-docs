@@ -1,0 +1,1 @@
+![figure](../img/algorithms/rigidFrom3Points.png)

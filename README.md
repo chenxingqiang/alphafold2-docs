@@ -1,4 +1,4 @@
-# A reference of 'AlphaFold2 Codec' include Everything of alphafold2 as possible as I can.
+# A reference of 'AlphaFold2 Codec' include everything of AlphaFold2 as possible as I can.
 
 ![proteins](imgs/proteins.jpeg)
 

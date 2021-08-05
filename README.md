@@ -1,6 +1,6 @@
 # ref-Alphafold-Code
 
-![proteins](img/proteins.jpeg)
+![proteins](imgs/proteins.jpeg)
 ## ToDo Lists
 ### 1. AlphaFold2 Source Code Review
 

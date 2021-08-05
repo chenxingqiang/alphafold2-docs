@@ -1,0 +1,1 @@
+![figure](../imgs/algorithms/TriangleAttentionStartingNode.png)

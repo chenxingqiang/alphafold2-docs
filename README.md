@@ -21,6 +21,8 @@ in AF2-PPT file.
 ### Practice on Modeling Test of AF2
 - https://github.com/sokrypton/ColabFold.git
 
+### MD+Alphafold2
+- https://github.com/pablo-arantes/Making-it-rain
 ## Blogs 
 - [DeepMind: AlphaFold-Using-AI-for-scientific-discovery](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
 - [DeepMind: alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
